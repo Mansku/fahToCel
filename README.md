@@ -1,2 +1,2 @@
 # fahToCel
-fahrenheit/celcius converter
+fahrenheit/celcius converter.
